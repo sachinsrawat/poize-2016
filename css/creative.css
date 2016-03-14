@@ -402,3 +402,6 @@ img::-moz-selection {
 body {
   webkit-tap-highlight-color: #222222;
 }
+.class {
+  border-radius: 100%;	
+}
